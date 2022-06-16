@@ -1,1 +1,1 @@
-# simple_shell
+This is a project done by Victor and Adio.
