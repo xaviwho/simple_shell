@@ -3,7 +3,7 @@
 /**
  * _strdup - duplicates a str in the heap memory.
  * @s: Type char pointer str
- * Return: duplicated str
+ * Return: duplicated str.
  */
 char *_strdup(const char *s)
 {
@@ -111,7 +111,7 @@ char *_strtok(char str[], const char *delim)
 }
 
 /**
- * _isdigit - defines if string passed is a number
+ * _isdigit - defines if string passed is a number.
  *
  * @s: input string
  * Return: 1 if string is a number. 0 in other case.
