@@ -1,1 +1,1 @@
-This is a project done by Victor and Adio.
+This simple shell project is done by Victor and Kayode
